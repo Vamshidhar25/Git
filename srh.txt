@@ -1,0 +1,5 @@
+1.git
+2.commit
+3.push
+4.origin
+5.main
